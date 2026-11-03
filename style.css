@@ -1,19 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Tiny5+Duo:ital,wght@0,100..900;1,100..900&display=swap');
+
 body{
-    background-color: beige;
-    text-align: center;
+background-color:beige;
 }
+
 h1{
-    text-align: center;
-    color: yellowgreen;
-    border: 2px dashed black;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 700;
-    font-style: italic;
+    box-shadow:10px 10px 3px rgba(46, 117, 182, 0.5);
+    margin: 10px;
+    padding: 10px;
 }
 
 p{
-border:2px solid black;
-border-radius: 30px;
-width: 450px;
-padding: 25px;
+    border:2px solid black;
+    margin: 10px;
+    padding: 10px 20px 10px 20px;
+    width: 200px;
+    text-align: center;
+   
 }
