@@ -1,13 +1,10 @@
-.tag{
-    display: inline-block;
-width: 120px;
-padding-right: 15px 10px;
-margin: 5px;
-background-color: #eee8fa;
-color: #4d347a;
-text-align: center;
-border-radius: 8px;
-
-
-
+.container{
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+.item{
+    background-color: #ddf2fa;
+    border: 2px solid #246b9e;
+    padding: 25px;
 }
