@@ -1,8 +1,13 @@
-strong{
-    background-color: #fcebd8;
-    color: #8a4b08;
-}
-a{
-    color: 246b9e;
-    margin-right: 10px
+.tag{
+    display: inline-block;
+width: 120px;
+padding-right: 15px 10px;
+margin: 5px;
+background-color: #eee8fa;
+color: #4d347a;
+text-align: center;
+border-radius: 8px;
+
+
+
 }
